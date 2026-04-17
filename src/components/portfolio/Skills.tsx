@@ -65,7 +65,7 @@ function SkillBar({ name, pct, fillClass }: { name: string; pct: number; fillCla
       </div>
       <div className="h-1.5 bg-muted rounded-full overflow-hidden">
         <div
-          className={`h-full rounded-full transition-all duration-[1.5s] ease-[cubic-bezier(0.4,0,0.2,1)] ${fillClass}`}
+          className={`h-full rounded-full transition-all duration-[1500ms] ease-in-out ${fillClass}`}
           style={{ width: `${width}%` }}
         />
       </div>

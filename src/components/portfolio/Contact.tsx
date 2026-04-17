@@ -1,6 +1,6 @@
 import { Mail, Phone, Linkedin, Globe, FileDown, Send } from 'lucide-react';
 import AnimatedSection from './AnimatedSection';
-import emailjs from 'emailjs-com';
+import emailjs from '@emailjs/browser';
 import { useState } from 'react';
 
 const contactItems = [
