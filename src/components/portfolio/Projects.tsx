@@ -11,7 +11,7 @@ import ipie from '../../assets/vdo/screen-capture (1).mp4';
 import ifsca from '../../assets/vdo/ifsca.mp4';
 import hrms from '../../assets/vdo/hrms.mp4';
 import form from '../../assets/vdo/Form.mp4';
-import certi from '../../assets/vdo/certi.mp4';
+import certi from '../../assets/vdo/Certi.mp4';
 import mca from '../../assets/img/mca.png';
 import mof from '../../assets/img/mof.jpg';
 import niti from '../../assets/img/niti.jpg';
