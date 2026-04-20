@@ -47,7 +47,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-lg text-muted-foreground mb-6 font-light"
           >
-            Solution Architect &nbsp;·&nbsp; <strong className="text-teal">Full Stack Developer</strong> &nbsp;·&nbsp; Software Engineer
+            Associate Solution Architect &nbsp;·&nbsp; <strong className="text-teal">Full Stack Developer</strong> &nbsp;·&nbsp; Software Engineer
           </motion.p>
 
           <motion.p
@@ -56,7 +56,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="text-base leading-relaxed text-muted-foreground max-w-[560px] mb-10 mx-auto lg:mx-0"
           >
-            Designing scalable digital systems for India's most critical government platforms. 1.8+ years bridging business vision with technical execution — from architecture blueprints to production-ready code.
+            Designing scalable digital systems for India’s critical government platforms. 1.8+ years translating business vision into technical architectures, solution designs, and functional implementations.
           </motion.p>
 
           <motion.div
