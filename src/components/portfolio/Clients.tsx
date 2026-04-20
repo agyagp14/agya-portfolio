@@ -16,7 +16,7 @@ const clients = [
   { logo: nhai, name: 'NHAI', desc: 'National Highways Authority of India — Infrastructure digital systems' },
   { logo: mohua, name: 'MoHUA', desc: 'Ministry of Housing & Urban Affairs — Smart city digital governance' },
   { logo: moa , name: 'Ministry of Agriculture', desc: 'Agricultural digital ecosystem and farmer-centric platforms' },
-  { logo: dic, name: 'DIC', desc: 'Department for Internal Trade & Commerce — Digital solutions' },
+  { logo: dic, name: 'DIC', desc: 'Digital India Corporation — Digital solutions' },
   { logo: niti, name: 'Niti Aayog', desc: 'Premier policy think tank of the Government of India' },
 ];
 
