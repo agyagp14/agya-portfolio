@@ -58,7 +58,7 @@ const projects: Project[] = [
   tech: ['Solution Architecture', 'Workflow Automation', 'Identity Verification', 'Portal Design', 'AI-assisted Verification'],
   category: 'professional',
   video: nmr,
-  thumbnail: nmc,
+  thumbnail: nmr,
 },
   
     {
