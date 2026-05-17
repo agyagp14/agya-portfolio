@@ -38,7 +38,7 @@ export default function CountUp({ target, label, decimal }: Props) {
 
   const display = decimal
     ? value.toFixed(1)
-    : `${Math.floor(value)}${target >= 5 ? '+' : ''}`;
+    : `${Math.floor(value)}${target >= 4 ? '+' : ''}`;
 
   return (
     <div ref={ref} className="text-left">
