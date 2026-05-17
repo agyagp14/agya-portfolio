@@ -15,6 +15,7 @@ import certi from '../../assets/vdo/Certi.mp4';
 import mca from '../../assets/img/mca.png';
 import mof from '../../assets/img/mof.jpg';
 import niti from '../../assets/img/niti.jpg';
+import nmr from '../../assets/vdo/nmr.mp4';
 
 interface Project {
   tag: string;
@@ -49,6 +50,16 @@ const projects: Project[] = [
         video: iepfa,
         thumbnail: mca,
   },
+  {
+  tag: 'Government · National Medical Commission',
+  tagClass: 'tag-gov',
+  name: 'NMR — National Medical Register',
+  desc: 'National-level digital medical registry platform for the National Medical Commission (NMC) enabling unified doctor registration, verification, centralized NMR ID issuance, QR-based authentication, disciplinary tracking, citizen verification portal, and federated integration with State Medical Councils and national health systems.',
+  tech: ['Solution Architecture', 'Workflow Automation', 'Identity Verification', 'Portal Design', 'AI-assisted Verification'],
+  category: 'professional',
+  video: nmr,
+  thumbnail: nmc,
+},
   
     {
     tag: 'Government · MCA',
